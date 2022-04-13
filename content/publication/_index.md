@@ -1,5 +1,5 @@
 ---
-title: "Publication"
+title: "Selected Publications"
 view: citation
 banner:
   caption: ""
