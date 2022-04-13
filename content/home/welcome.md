@@ -11,7 +11,8 @@ title: |
 hero_media: uhealth-don-soffer.jpeg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
+  view: 5
   # Add custom styles
   css_style:
   css_class:
@@ -20,11 +21,16 @@ design:
 The **Translational Statistical Bioinformatics Lab** has been a center of excellence for Innovative analytical methodology 
 Translational genomics research.
 
-Our Mission
+
+## Our Mission
+<hr>
 
 We use data sciences approaches to understand genomics and epigenomics changes in cancers and Alzheimer’s disease, by developing and applying innovative analytical strategies and computational tools.
 
 
-Our Values
+## Our Values
+<hr>
 
-Excellence, Integrity, Resilience
+- Excellence
+- Integrity
+- Resilience
