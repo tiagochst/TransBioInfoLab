@@ -1,8 +1,16 @@
 ---
-title: 'An example journal article'
+title: 'Multi-omics analysis identifies therapeutic vulnerabilities in triple-negative breast cancer subtypes'
 authors:
-  - admin
-  - Robert Ford
+  - Lehmann, Brian D 
+  - Colaprico, Antonio 
+  - Silva, Tiago C 
+  - Chen, Jianjiao 
+  - An, Hanbing 
+  - Ban, Yuguang 
+  - Huang, Hanchen 
+  - Wang, Lily 
+  - James, Jamaal L 
+  - Balko, Justin M
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'

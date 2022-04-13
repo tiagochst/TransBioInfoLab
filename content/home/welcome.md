@@ -17,17 +17,14 @@ design:
   css_class:
 ---
 
-<br>
-
 The **Translational Statistical Bioinformatics Lab** has been a center of excellence for Innovative analytical methodology 
 Translational genomics research.
 
-Our Mission:
+Our Mission
 
 We use data sciences approaches to understand genomics and epigenomics changes in cancers and Alzheimer’s disease, by developing and applying innovative analytical strategies and computational tools.
 
- 
 
-Our Values: 
+Our Values
 
 Excellence, Integrity, Resilience
