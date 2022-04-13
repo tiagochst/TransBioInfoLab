@@ -7,8 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Translational Statistical Bioinformatics Lab
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,15 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Translational Statistical Bioinformatics Lab** has been a center of excellence for Innovative analytical methodology 
+Translational genomics research.
+
+Our Mission:
+
+We use data sciences approaches to understand genomics and epigenomics changes in cancers and Alzheimer’s disease, by developing and applying innovative analytical strategies and computational tools.
+
+ 
+
+Our Values: 
+
+Excellence, Integrity, Resilience
