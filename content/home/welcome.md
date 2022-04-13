@@ -19,7 +19,7 @@ design:
 
 content:
   slides:
-    - title:  Welcome to the group 🔬🧬👩‍💻
+    - title:  Welcome to the group 
       content: The **Translational Statistical Bioinformatics Lab** has been a center of excellence for Innovative analytical methodology  Translational genomics research.
       align: center
       background:
@@ -55,20 +55,7 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Join Us
-        url: ../contact/
+        url: ../join_us/
 ---
 
 
-
-## Our Mission
-<hr>
-
-We use data sciences approaches to understand genomics and epigenomics changes in cancers and Alzheimer’s disease, by developing and applying innovative analytical strategies and computational tools.
-
-
-## Our Values
-<hr>
-
-- Excellence
-- Integrity
-- Resilience
