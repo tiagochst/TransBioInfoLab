@@ -1,6 +1,5 @@
 ---
-title: "* (2022) MethReg: estimating the regulatory potential of DNA methylation
-  in gene transcription. Nucleic Acids Research gkac030  (code) (software)"
+title: "Publication"
 view: citation
 banner:
   caption: ""
