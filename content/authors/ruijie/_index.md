@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Grad Students
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
 I am a current Biostatistics PhD student at University of Miami. My research interests are machine learning, statistical genetics, clinical trials in Alzheimer's disease and cancer, and survival analysis.
