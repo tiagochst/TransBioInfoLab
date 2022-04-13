@@ -1,8 +1,8 @@
 ---
-title: Example Event
+title: coMethDMR
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url: https://github.com/TransBioInfoLab/coMethDMR
 
 location: Wowchemy HQ
 address:
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
+summary: coMethDMR (https://github.com/TransBioInfoLab/coMethDMR) is an R package that identifies genomic regions associated with continuous phenotypes by optimally leverages covariations among CpGs within predefined genomic regions.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -54,10 +54,6 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+coMethDMR (https://github.com/TransBioInfoLab/coMethDMR) is an R package that identifies genomic regions associated with continuous phenotypes by optimally leverages covariations among CpGs within predefined genomic regions.
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+manuscript: Gomez L, Odom GJ, Young JI, Martin ER, Liu L, Chen X, Griswold AJ, Gao Z, Zhang L, Wang L* (2019). coMethDMR: accurate identification of co-methylated and differentially methylated regions in epigenome-wide association studies with continuous phenotypes. Nucleic Acids Research. 47(17):e9 https://academic.oup.com/nar/article/47/17/e98/5530673
