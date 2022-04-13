@@ -27,7 +27,7 @@ tags:
 categories: []
 date: '2016-06-01'
 lastmod: 2022-04-13T14:00:33-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-13T18:00:32.914748Z'
+publishDate: '2016-06-01'
 publication_types:
 - '2'
 abstract: Triple-negative breast cancer (TNBC) is a heterogeneous disease that can

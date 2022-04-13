@@ -14,8 +14,10 @@ tags: []
 categories: []
 date: '2022-01-01'
 lastmod: 2022-04-13T14:03:41-04:00
-featured: false
 draft: false
+add_badge: true
+featured: true
+doi: "10.1093/nar/gkac030"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
