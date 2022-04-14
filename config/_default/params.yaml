@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} TransBioInfoLab.'
+    notice: '© {year} | TransBioInfoLab'
     license:
       enable: false
       allow_derivatives: false
