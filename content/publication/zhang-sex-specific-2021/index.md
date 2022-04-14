@@ -8,7 +8,7 @@ authors:
 - Lanyu Zhang
 - Juan I. Young
 - Lissette Gomez
-- Tiago C. Silva
+- Tiago C Silva
 - Michael A. Schmidt
 - Jesse Cai
 - Xi Chen

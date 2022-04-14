@@ -1,5 +1,5 @@
 ---
-title: TCGAbiolinks
+title: TCGAbiolinks  R/Bioconductor package 
 
 event_url: https://github.com/BioinformaticsFMRP/TCGAbiolinks
 
@@ -9,7 +9,7 @@ summary: 'The aim of TCGAbiolinks (http://bioconductor.org/packages/release/bioc
 # Schedule page publish date (NOT talk date).
 publishDate: '2015-12-23T00:00:00Z'
 
-authors: [Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr]
+authors: [Antonio Colaprico, Tiago C Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr]
 tags: []
 
 # Is this a featured talk? (true/false)

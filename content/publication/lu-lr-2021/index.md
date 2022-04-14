@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Min Lu
 - Yifan Sha
-- Tiago C. Silva
+- Tiago C Silva
 - Antonio Colaprico
 - Xiaodian Sun
 - Yuguang Ban

@@ -10,7 +10,7 @@ authors:
 - Matthew H. Bailey
 - Gabriel J. Odom
 - Thilde Terkelsen
-- Tiago C. Silva
+- Tiago C Silva
 - André V. Olsen
 - Laura Cantini
 - Andrei Zinovyev
@@ -20,7 +20,7 @@ authors:
 - Isabella Castiglioni
 - Claudia Cava
 - Gianluca Bontempi
-- Xi Steven Chen
+- Xi Chen
 - Elena Papaleo
 tags:
 - Cancer genomics

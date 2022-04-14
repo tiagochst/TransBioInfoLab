@@ -1,5 +1,5 @@
 ---
-title: MethReg
+title: MethReg  R/Bioconductor package 
 
 event_url: https://github.com/TransBioInfoLab/MethReg
 
@@ -9,7 +9,7 @@ summary: MethReg (https://bioconductor.org/packages/MethReg/) is an R package fo
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-01-30T00:00:00Z'
 
-authors: [Tiago C Silva, Juan I Young, Eden R Martin, X Steven Chen, Lily Wang]
+authors: [Tiago C Silva, Juan I Young, Eden R Martin, Xi Chen, Lily Wang]
 tags: []
 
 # Is this a featured talk? (true/false)

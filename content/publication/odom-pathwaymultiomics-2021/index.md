@@ -8,8 +8,8 @@ summary: ''
 authors:
 - Gabriel J. Odom
 - Antonio Colaprico
-- Tiago C. Silva
-- X. Steven Chen
+- Tiago C Silva
+- Xi Chen
 - Lily Wang
 tags: []
 categories: []

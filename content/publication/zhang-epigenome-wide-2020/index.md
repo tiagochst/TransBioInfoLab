@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Lanyu Zhang
-- Tiago C. Silva
+- Tiago C Silva
 - Juan I. Young
 - Lissette Gomez
 - Michael A. Schmidt

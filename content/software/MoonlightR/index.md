@@ -1,5 +1,5 @@
 ---
-title: MoonlightR
+title: MoonlightR  R/Bioconductor package 
 
 event_url: https://bioconductor.org/packages/MoonlightR/
 
@@ -7,7 +7,7 @@ summary: 'The understanding of cancer mechanism requires the identification of g
 
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2012-01-30T00:00:00Z'
+publishDate: '2020-01-03T00:00:00Z'
 
 authors: [Antonio Colaprico*, Catharina Olsen*, Claudia Cava, Thilde Terkelsen, Laura Cantini, Andre Olsen, Gloria Bertoli, Andrei Zinovyev, Emmanuel Barillot, Isabella Castiglioni, Elena Papaleo, Gianluca Bontempi]
 tags: []
